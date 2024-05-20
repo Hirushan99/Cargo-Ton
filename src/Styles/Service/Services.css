@@ -1,0 +1,41 @@
+.ServicesContainer{
+    display: flex;
+    position: relative;
+    width: 1300px;
+    height: 400px;
+    margin-left: 80px;
+}
+
+.serviceContainerSubHeading_div{
+    position: absolute;
+    left:480px ;
+    top:10px ;
+}
+
+.serviceContainerSubHeading{
+    font-family: 'Bahnschrift Condensed';
+    color: rgb(128, 187, 70);
+}
+
+.serviceContainerHeading_div{
+    position: absolute;
+    left:355px ;
+    top:40px ;
+}
+
+.serviceContainerHeading_div{
+    font-family: 'Bahnschrift Condensed';
+}
+
+.serviceCard_1{
+    position: absolute;
+    top:140px ;
+    left:150px ;
+
+}
+
+.serviceCard_2{
+    position: absolute;
+    top:140px ;
+    left:750px ;
+}
