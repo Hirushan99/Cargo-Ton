@@ -1,0 +1,94 @@
+.footerCustomerServiceImgContainer {
+    display: flex;
+    position: relative;
+    width: 280px;
+    height: 400px;
+    font-family: sans-serif;
+    background-color: #576982;
+  }
+  
+  .footerCustomerServiceImgHeading_div {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+  }
+  
+  .footerCustomerServiceImgHeading {
+    color: rgb(255, 255, 255);
+  }
+  
+  .footerCustomerServiceImgHorizontalLine_div {
+    position: absolute;
+    top: 45px;
+    left: 20px;
+    width: 60px;
+    height: 3px;
+    background-color: #C6A617;
+    margin: 20px auto;
+  }
+  
+  .footerCustomerServiceImgSection {
+    position: absolute;
+    top: 100px;
+    width: 260px;
+    height: 170px;
+    margin-left: 20px;
+  }
+  
+  .footerCustomerServiceImg_1,
+  .footerCustomerServiceImg_2,
+  .footerCustomerServiceImg_3,
+  .footerCustomerServiceImg_4,
+  .footerCustomerServiceImg_5,
+  .footerCustomerServiceImg_6 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .footerCustomerServiceImg_1:hover,
+  .footerCustomerServiceImg_2:hover,
+  .footerCustomerServiceImg_3:hover,
+  .footerCustomerServiceImg_4:hover,
+  .footerCustomerServiceImg_5:hover,
+  .footerCustomerServiceImg_6:hover {
+    transform: scale(1.2);
+  }
+  
+  .footerCustomerServiceImg_1 {
+    left: 0px;
+    top: 0px;
+  }
+  
+  .footerCustomerServiceImg_2 {
+    left: 90px;
+    top: 0px;
+  }
+  
+  .footerCustomerServiceImg_3 {
+    left: 180px;
+    top: 0px;
+  }
+  
+  .footerCustomerServiceImg_4 {
+    left: 0px;
+    top: 90px;
+  }
+  
+  .footerCustomerServiceImg_5 {
+    left: 90px;
+    top: 90px;
+  }
+  
+  .footerCustomerServiceImg_6 {
+    left: 180px;
+    top: 90px;
+  }
+  
+  .footerCustomerServiceImgSection img {
+    width: 100%;
+    height: 100%;
+  }
+  

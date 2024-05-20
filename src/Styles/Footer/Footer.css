@@ -1,0 +1,62 @@
+.footerContainer{
+    display: flex;
+    position: relative;
+    width: 1400px;
+    height: 630px;
+    background-color: #576982;
+}
+
+.footerUpperPart{
+    position: absolute;
+    left: 0px;
+    top: 20px;
+    z-index: 9;
+}
+
+.footerAboutUs{
+    position: absolute;
+    left: 110px;
+    top: 200px;
+    z-index: 9;
+}
+
+.footerLatestNews{
+    position: absolute;
+    left: 410px;
+    top: 200px;
+    z-index: 9;
+}
+
+.footerCustomerService{
+    position: absolute;
+    left: 710px;
+    top: 200px;
+    z-index: 9;
+}
+
+.footerCustomerServiceImg{
+    position: absolute;
+    left: 1010px;
+    top: 200px;
+    z-index: 9;
+}
+
+.footerSocialMedia{
+    position: absolute;
+    right: 100px;
+    top: 570px;
+    z-index: 9;
+}
+
+.footerText_div{
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+}
+
+.footerText{
+    font-weight: bold;
+    font-size: 13px;
+    font-family: sans-serif;
+    color: rgb(206, 209, 209);;
+}

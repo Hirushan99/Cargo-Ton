@@ -1,0 +1,30 @@
+.footerCustomerSingleServiceContainer{
+    display: flex;
+    position: relative;
+    width:220px;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+.footerCustomerSingleServiceImg_div{
+    position: absolute;
+    left: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+.footerCustomerSingleServiceImg_div img{
+    width: 100%;
+    height: 100%;
+}
+
+.footerCustomerSingleServiceText_div{
+    position: absolute;
+    left: 40px;
+    width: 180px;
+    height: 20px;
+    font-size: 14px;
+    color: rgb(206, 209, 209);
+    font-weight: bold;
+    padding-top: 3px;
+}
