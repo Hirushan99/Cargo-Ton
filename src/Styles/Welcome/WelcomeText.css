@@ -1,0 +1,64 @@
+.welcomeTextContainer{
+    display: flex;
+    position: relative;
+    width: 500px;
+    height: 450x;
+    font-family: sans-serif;
+}
+
+.welcomeText_topic_div{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.welcomeText_topic{
+    line-height: 1.5;
+}
+
+.worldWord{
+    color:#de631c;
+}
+
+.welcomeText_text1_div{
+    position: absolute;
+    top: 160px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.welcomeText_text1{
+    font-size: 16px;
+    line-height: 1.8;
+    text-align: center;
+}
+
+.welcomeText_text2_div{
+    position: absolute;
+    top: 260px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.welcomeText_text2{
+    font-size: 16px;
+    line-height: 1.8;
+    text-align: justify;
+    color: rgb(100, 109, 109);
+}
+
+.moreButton_div{
+    position: absolute;
+    top: 385px;
+    margin-left: 15px;
+}
+
+.moreButton_div button{
+    background-color: rgb(231, 226, 219);
+    width: 200px;
+    height: 50px;
+    color: cadetblue;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+}
