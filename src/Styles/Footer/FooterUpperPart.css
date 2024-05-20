@@ -1,0 +1,63 @@
+.footerUpperPartContainer{
+    display: flex;
+    position: relative;
+    width: 1400px;
+    height: 100px;
+    font-family: sans-serif;
+    background-color: #576982;
+}
+
+.footerUpperPartHeader_div{
+    position: absolute;
+    top:0px ;
+    left:100px ;
+    color: #ffffff;
+}
+
+.footerUpperPartSubHeader_div{
+    position: absolute;
+    top:70px ;
+    left:100px ;
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.searchBox_div{
+    position: absolute;
+    top: 10px;
+    left: 800px;
+}
+
+.searchBox {
+    width: 300px;
+    height: 40px;
+    border-radius: 10px; 
+    border: 1px solid #ccc; 
+    padding: 10px;
+    font-size: 16px; 
+}
+
+.searchBox::placeholder {
+    border: none;
+}
+
+.subscribeButton {
+    position: absolute;
+    top: 17px;
+    right: 145px;
+    margin-left: 10px;
+    height: 50px;
+    padding: 8px 16px;
+    background-color: #C6A617;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .subscribeButton:hover {
+    background-color: #a58914;
+  }
+

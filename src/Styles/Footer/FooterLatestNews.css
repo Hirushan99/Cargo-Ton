@@ -1,0 +1,39 @@
+.footerLatestNewsContainer{
+    display: flex;
+    position: relative;
+    width: 280px;
+    height: 300px;
+    font-family: sans-serif;
+    background-color: #576982;
+}
+
+.footerLatestNewsHeading_div{
+    position: absolute;
+    top:10px ;
+    left: 20px;
+}
+
+.footerLatestNewsHeading{
+    color: rgb(255, 255, 255);
+}
+
+.footerLatestNewsHorizontalLine_div{
+    position: absolute;
+    top: 45px;
+    left: 20px;
+    width: 60px;
+    height: 3px;
+    background-color: #C6A617;
+    margin: 20px auto;
+}
+.newsSection_div1{
+    position: absolute;
+    top: 90px;
+    left: 20px;
+}
+
+.newsSection_div2{
+    position: absolute;
+    top: 200px;
+    left: 20px;
+}
