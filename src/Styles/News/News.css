@@ -1,0 +1,48 @@
+.newsContainer{
+    display: flex;
+    position: relative;
+    width: 1300px;
+    height: 700px;
+    font-family: sans-serif;
+    margin-left: 80px;
+}
+
+.newsHeader_div{
+    position: absolute;
+    left:550px ;
+    top: 0px;
+    text-align: center;
+}
+
+.newsSubHeader_div{
+    position: absolute;
+    left: 580px;
+    top:60px ;
+    text-align: center;
+    color: rgb(98, 94, 94);
+    font-size: 12px;
+}
+
+.newsCard_1_div{
+    position: absolute;
+    left: 25px;
+    top: 100px;
+}
+
+.newsCard_2_div{
+    position: absolute;
+    left: 675px;
+    top: 100px;
+}
+
+.newsCard_3_div{
+    position: absolute;
+    left: 25px;
+    top: 400px;
+}
+
+.newsCard_4_div{
+    position: absolute;
+    left: 675px;
+    top: 400px;
+}
