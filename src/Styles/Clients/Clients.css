@@ -1,0 +1,47 @@
+.clientsContainer{
+    display: flex;
+    position: relative;
+    font-family: sans-serif;
+    width: 1200px;
+    height: 250px;
+    margin-left: 140px;
+}
+
+.clientsHeader_div{
+    position: absolute;
+    top: 30px;
+    left: 450px;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+}
+
+.clientLogo_1{
+    position: absolute;
+    bottom: 15px;
+    left: 100px;
+}
+
+.clientLogo_2{
+    position: absolute;
+    bottom: 15px;
+    left: 320px;
+}
+
+.clientLogo_3{
+    position: absolute;
+    bottom: 15px;
+    left: 540px;
+}
+
+.clientLogo_4{
+    position: absolute;
+    bottom: 15px;
+    left: 760px;
+}
+
+.clientLogo_5{
+    position: absolute;
+    bottom: 15px;
+    left: 980px;
+}
