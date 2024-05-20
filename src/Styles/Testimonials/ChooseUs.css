@@ -1,0 +1,30 @@
+.chooseUsContainer{
+    display: flex;
+    position: relative;
+    width: 600px;
+    height: 700px;
+    font-family: sans-serif;
+}
+
+.chooseUsHeader_div{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+}
+
+.chooseUsSubHeader_div{
+    position: absolute;
+    top: 85px;
+    left: 10px;
+}
+
+.chooseUsSubHeader{
+    color: rgb(119, 117, 117);
+}
+
+.chooseUsQuestionSection_div{
+    position: absolute;
+    top: 160px;
+    width: 600px;
+    height: 300px;
+}

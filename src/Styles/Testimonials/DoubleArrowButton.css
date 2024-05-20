@@ -1,0 +1,34 @@
+.doubleArrowButtonContainer{
+    display: flex;
+    position: relative;
+    width:60px ;
+    height: 20px;
+}
+
+.leftArrowImage_div{
+    position: absolute;
+    top: 0px;
+    left:0px ;
+    width: 30px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.leftArrowImage_div img{
+    width: 100%;
+    height: 100%;
+}
+
+.rightArrowImage_div{
+    position: absolute;
+    top: 0px;
+    left:30px ;
+    width: 30px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.rightArrowImage_div img{
+    width: 100%;
+    height: 100%;
+}

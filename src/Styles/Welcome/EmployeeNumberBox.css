@@ -1,0 +1,28 @@
+.dialog-box {
+    position: relative;
+    width: 160px; 
+    height: 70px; 
+    background-color: #de631c; 
+    padding: 20px; 
+    color: rgb(255, 255, 255);
+
+  }
+  
+  .employeeNumber{
+    position: absolute;
+    top: 6px ;
+    left: 30px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    
+    
+  }
+
+  .employeeNumberContent{
+    position: absolute;
+    top: 55px ;
+    left: 15px;
+    font-family: sans-serif;
+    
+  }
+
