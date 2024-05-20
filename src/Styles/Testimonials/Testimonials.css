@@ -1,0 +1,16 @@
+.testimonialsContainer{
+    display: flex;
+    position: relative;
+}
+
+.trustClient_div{
+    position: absolute;
+    top: 0px;
+    left: 135px;
+}
+
+.chooseUs_div{
+    position: absolute;
+    top: 0px;
+    left: 750px;
+}

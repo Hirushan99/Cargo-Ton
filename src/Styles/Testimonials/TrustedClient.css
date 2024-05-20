@@ -1,0 +1,62 @@
+.trustedClientContainer{
+    display: flex;
+    position: relative;
+    width: 600px;
+    height: 700px;
+    font-family: sans-serif;
+}
+
+.trustedClientHeader_div{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+}
+
+.trustedClientSubHeader_div{
+    position: absolute;
+    top: 85px;
+    left: 10px;
+}
+
+.trustedClientSubHeader{
+    color: rgb(119, 117, 117);
+}
+
+.quotes_div{
+    position: absolute;
+    left: 20px;
+    top: 160px;
+    width:450px ;
+    height: 80px;
+    background-color: rgb(224, 220, 215);
+    padding: 40px;
+    text-align: justify;
+
+}
+
+.quotes{
+    font-size: 12px;
+}
+
+.doubleSideArrowImg_div{
+    position: absolute;
+    left:40px ;
+    top: 350px;
+}
+
+
+.author_and_post_div{
+    position: absolute;
+    top: 335px;
+    right: 80px;
+    text-align: center;
+}
+
+.quotesAuthor{
+    font-weight: bolder;
+}
+
+.quotesAuthorPost{
+    font-size: 12px;
+}
+
