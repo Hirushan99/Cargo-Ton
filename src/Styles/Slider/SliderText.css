@@ -1,0 +1,86 @@
+.container{
+    position: relative;
+    font-family: 'Arial Narrow';
+}
+
+.logistic_div{
+    margin-top: 60px;
+    margin-left: 15px;
+    position: relative;
+    
+}
+
+.vertical-line {
+    width: 5px;
+    height: 30px;
+    background-color: #C6A617;
+    position:absolute;
+    left: 10px;
+    
+  }
+
+.logistics{
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 550;
+    position: absolute;
+    left: 30px;
+    top: 7px;
+}
+
+.title1{
+    font-size: 70px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.title2{
+    font-size: 70px;
+    font-weight: 1000;
+    letter-spacing: 2px;
+    color: #C6A617;
+    
+}
+
+.title1_div{
+    position: absolute;
+    left: 25PX;
+    top: 55PX;
+}
+
+.title2_div{
+    position: absolute;
+    left: 25PX;
+    top: 140PX;
+}
+
+.description_div{
+    position: absolute;
+    left: 25px;
+    top: 325px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-align: justify;
+    line-height: 1.9;
+    padding-right: 40px;
+
+}
+
+.Discover-More_button_div{
+    position: absolute;
+    left: 25px;
+    top: 480px;
+}
+
+.Discover-More_button{
+    background-color: #C6A617;
+    width: 200px;
+    height: 60px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+}
