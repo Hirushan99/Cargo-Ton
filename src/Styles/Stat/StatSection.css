@@ -1,0 +1,27 @@
+.statSectionContainer{
+    display: flex;
+    position: relative;
+    width: 1300px;
+    height: 100px;
+    margin-left: 80PX;
+}
+
+.statCard_1{
+    position: absolute;
+    left: 100px;
+}
+
+.statCard_2{
+    position: absolute;
+    left: 400px;
+}
+
+.statCard_3{
+    position: absolute;
+    left: 700px;
+}
+
+.statCard_4{
+    position: absolute;
+    left: 1000px;
+}

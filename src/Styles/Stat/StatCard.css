@@ -1,0 +1,28 @@
+.statCardContainer {
+    display: flex;
+    position: relative;
+    width: 200px;
+    height: 100px;
+    font-family: sans-serif;
+}
+
+.statCardNumber_div {
+    position: absolute;
+    left: 0px;
+    top: 10px;
+    padding-left: 20px;
+}
+
+.statCardNumber {
+    color: rgb(10, 13, 63);
+}
+
+.statCardDescription_div {
+    position: absolute;
+    left: 100px;
+    top: 10px;
+}
+
+.statCardDescription {
+    color: rgb(26, 34, 152);
+}
